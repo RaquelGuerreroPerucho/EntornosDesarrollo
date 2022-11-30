@@ -3,18 +3,12 @@
 <h6 style="text-align: right"> <em> Raquel Guerrero Perucho </em> </h6> 
 <h6 style="text-align: right"> <em> 1º DAM - Entornos de desarrollo </em> </h6> 
 
-# TEMA 2: Práctica 2 Depuración
-Donat el codi a JAVA de la classe cotxe que compta amb els mètodes:
-* constructor on se li estableix la marca, model, color i la velocitat inicial del qual és 0.
-* getters i setters de cada paràmetre.
-* Mètode accelera (int vel) que incrementa la velocitat del cotxe en “vel” Km/h.
-* Mètode frena(int vel) que decrementa la velocitat del cotxe en “vel” Km/h.
-* para() que posa la velocitat a 0.
-* pinta() que pinta el cotxe més a prop o més lluny segons la velocitat que tinga en aqueix moment.
-A més , la classe Principal té el mètode:
-pubic static void main(String [] args) punt d'inici del programa →
+# TEMA 2: Fitxers JAR (II)
+ >Donat el fitxer cotxe.jar que inclou la classe Cotxe amb tots els mètodes especificats en la
+documentació que es troba en format HTML en el fitxer comprimit doc-cotxe.zip:
+• Crea un projecte denominat exercici-jar-2 en el qual inclogues en fitxer cotxe.jar en un directori lib.
+• Afig aquest fitxer .jar en el mòdul del projecte (com indica les anotacions)
 
->0. Importar el projecte en INTELLIJ.
 
 ![](file:./imagen0.png)
 

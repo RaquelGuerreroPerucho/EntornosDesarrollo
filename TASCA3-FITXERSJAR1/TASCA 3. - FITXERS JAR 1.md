@@ -35,4 +35,5 @@ Muestre un menú para provar las opciones de la clase MZFecha:
 
 • Diferència entre dos fechas.
 
+<img src="Captura5.PNG">
 
