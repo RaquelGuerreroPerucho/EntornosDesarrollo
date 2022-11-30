@@ -5,7 +5,9 @@
 
 # TEMA 2: Fitxers JAR (II)
  >Donat el fitxer cotxe.jar que inclou la classe Cotxe amb tots els mètodes especificats en la documentació que es troba en format HTML en el fitxer comprimit doc-cotxe.zip:
+ 
 • Crea un projecte denominat exercici-jar-2 en el qual inclogues en fitxer cotxe.jar en un directori lib.
+
 • Afig aquest fitxer .jar en el mòdul del projecte (com indica les anotacions)
 
 
